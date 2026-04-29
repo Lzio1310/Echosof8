@@ -13,7 +13,7 @@ A first-person horror game inspired by The Exit 8, where players detect anomalie
 - Modular anomaly system
 - Event-driven architecture
 - Object Pooling for optimization
-- NavMesh AI (if used)
+- NavMesh AI 
 
 
 # Tech Stack
